@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Model1StoreContainer">
+    <EntitySet Name="Details" EntityType="Model1.Store.Details" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MealPlans" EntityType="Model1.Store.MealPlans" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="MealPlanDetails" Association="Model1.Store.MealPlanDetails">
+      <End Role="MealPlan" EntitySet="MealPlans" />
+      <End Role="Details" EntitySet="Details" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Details">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="LastName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Email" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MealPlanId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MealPlans">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Plan" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <Association Name="MealPlanDetails">
+    <End Role="MealPlan" Type="Model1.Store.MealPlans" Multiplicity="1" />
+    <End Role="Details" Type="Model1.Store.Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MealPlan">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Details">
+        <PropertyRef Name="MealPlanId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

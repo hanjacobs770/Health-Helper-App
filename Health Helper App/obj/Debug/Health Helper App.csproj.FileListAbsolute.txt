@@ -1,0 +1,466 @@
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\ApplicationInsights.config
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Health Helper App.dll.config
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Health Helper App.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Health Helper App.pdb
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Antlr3.Runtime.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\EntityFramework.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Newtonsoft.Json.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Owin.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.Helpers.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.Mvc.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.Optimization.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.Razor.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.WebPages.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\WebGrease.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.Helpers.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.Mvc.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.Optimization.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.Razor.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.WebPages.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Antlr3.Runtime.pdb
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Newtonsoft.Json.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\EntityFramework.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.xml
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\obj\Debug\Health Helper App.csprojResolveAssemblyReference.cache
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\obj\Debug\Health Helper App.csproj.CoreCompileInputs.cache
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\obj\Debug\Health Helper App.dll
+C:\Users\hanjacobs\source\repos\Health Helper App\Health Helper App\obj\Debug\Health Helper App.pdb
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\ApplicationInsights.config
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Health Helper App.dll.config
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Health Helper App.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Health Helper App.pdb
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Antlr3.Runtime.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\EntityFramework.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Newtonsoft.Json.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Owin.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.Helpers.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.Mvc.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.Optimization.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.Razor.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.WebPages.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\WebGrease.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.Helpers.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.Mvc.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.Optimization.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.Razor.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.WebPages.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Antlr3.Runtime.pdb
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Newtonsoft.Json.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\EntityFramework.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\obj\Debug\Health Helper App.csprojResolveAssemblyReference.cache
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\obj\Debug\Health Helper App.csproj.CoreCompileInputs.cache
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\obj\Debug\Health Helper App.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\obj\Debug\Health Helper App.pdb
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\SendGrid.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Net.Http.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\SendGrid.pdb
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\majorasses\App\Health Helper App\Health Helper App\bin\SendGrid.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\ApplicationInsights.config
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Health Helper App.dll.config
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Health Helper App.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Health Helper App.pdb
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Antlr3.Runtime.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\EntityFramework.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.Agent.Intercept.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Web.Infrastructure.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Newtonsoft.Json.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Owin.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\SendGrid.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Net.Http.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Algorithms.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Encoding.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Primitives.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.X509Certificates.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Helpers.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Mvc.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Optimization.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Razor.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\WebGrease.dll
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Newtonsoft.Json.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\SendGrid.pdb
+E:\current takss\5032\Health Helper App\Health Helper App\bin\SendGrid.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Helpers.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Mvc.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Optimization.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Razor.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Antlr3.Runtime.pdb
+E:\current takss\5032\Health Helper App\Health Helper App\bin\EntityFramework.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.xml
+E:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.xml
+E:\current takss\5032\Health Helper App\Health Helper App\obj\Debug\Health Helper App.csprojResolveAssemblyReference.cache
+E:\current takss\5032\Health Helper App\Health Helper App\obj\Debug\Health Helper App.csproj.CoreCompileInputs.cache
+E:\current takss\5032\Health Helper App\Health Helper App\obj\Debug\Health Helper App.dll
+E:\current takss\5032\Health Helper App\Health Helper App\obj\Debug\Health Helper App.pdb
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\ApplicationInsights.config
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Health Helper App.dll.config
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Health Helper App.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Health Helper App.pdb
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Antlr3.Runtime.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\EntityFramework.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Newtonsoft.Json.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Owin.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\SendGrid.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Net.Http.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.Helpers.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.Mvc.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.Optimization.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.Razor.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\WebGrease.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Newtonsoft.Json.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\SendGrid.pdb
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\SendGrid.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.Helpers.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.Mvc.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.Optimization.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.Razor.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Antlr3.Runtime.pdb
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\EntityFramework.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.xml
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\obj\Debug\Health Helper App.csproj.CoreCompileInputs.cache
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\obj\Debug\Health Helper App.dll
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\obj\Debug\Health Helper App.pdb
+C:\Users\hanjacobs\Desktop\Uni\Post Grad\2018\Semester 2 2018\FIT5032\Health Helper App\Health Helper App\obj\Debug\Health Helper App.csprojResolveAssemblyReference.cache
+F:\current takss\5032\Health Helper App\Health Helper App\bin\ApplicationInsights.config
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Health Helper App.dll.config
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Health Helper App.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Health Helper App.pdb
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Antlr3.Runtime.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\EntityFramework.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.Agent.Intercept.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Web.Infrastructure.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Newtonsoft.Json.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Owin.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\SendGrid.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Net.Http.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Algorithms.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Encoding.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Primitives.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.X509Certificates.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Helpers.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Mvc.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Optimization.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Razor.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\WebGrease.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Newtonsoft.Json.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\SendGrid.pdb
+F:\current takss\5032\Health Helper App\Health Helper App\bin\SendGrid.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Helpers.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Mvc.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Optimization.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Razor.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Antlr3.Runtime.pdb
+F:\current takss\5032\Health Helper App\Health Helper App\bin\EntityFramework.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.xml
+F:\current takss\5032\Health Helper App\Health Helper App\obj\Debug\Health Helper App.csprojResolveAssemblyReference.cache
+F:\current takss\5032\Health Helper App\Health Helper App\obj\Debug\Health Helper App.csproj.CoreCompileInputs.cache
+F:\current takss\5032\Health Helper App\Health Helper App\obj\Debug\Health Helper App.dll
+F:\current takss\5032\Health Helper App\Health Helper App\obj\Debug\Health Helper App.pdb
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\ApplicationInsights.config
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Health Helper App.dll.config
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Health Helper App.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Health Helper App.pdb
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Antlr3.Runtime.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\EntityFramework.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AI.Agent.Intercept.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Web.Infrastructure.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Newtonsoft.Json.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Owin.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\SendGrid.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Net.Http.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Algorithms.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Encoding.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Primitives.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Security.Cryptography.X509Certificates.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.Helpers.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.Mvc.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.Optimization.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.Razor.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.WebPages.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\WebGrease.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Newtonsoft.Json.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\SendGrid.pdb
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\SendGrid.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.Helpers.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.Mvc.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.Optimization.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.Razor.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.WebPages.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Antlr3.Runtime.pdb
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\EntityFramework.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.xml
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\obj\Debug\Health Helper App.csprojResolveAssemblyReference.cache
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\obj\Debug\Health Helper App.csproj.CoreCompileInputs.cache
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\obj\Debug\Health Helper App.dll
+F:\current takss\5032\zip folder\Health Helper App\Health Helper App\obj\Debug\Health Helper App.pdb

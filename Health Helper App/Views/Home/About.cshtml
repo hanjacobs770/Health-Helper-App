@@ -1,0 +1,53 @@
+﻿@{
+    ViewBag.Title = "Health Helper About Page";
+}
+<div class="header">
+    <h2>@ViewBag.Title.</h2>
+    <h3>@ViewBag.Message</h3>
+
+    <h2>Hello welcome to Health Helper!</h2>
+    <p>
+        Health Helper is an interactive applicaton which will assist you in devising your own meal plan to align with your dietary goals.
+        Please navigate to the meal plan info tab in order to find out more about our great meal plans
+    </p>
+</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gwDXAVrvAXE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+@*<video id="myVideo" width="400" controls playbackrate>
+<source src="/picturs/healthhelp.mp4" type="video/mp4">
+</video>*@
+@*<script>
+var vid = document.getElementById("myVideo");
+vid.playbackRate = 0.5;
+</script>*@
+<img src="https://www.eatright.org/-/media/eatrightimages/health/wellness/heartandcardiovascularhealth/preparehearthealthyfoodsforyourfamily.jpg" /> 
+<style>
+
+    img {
+        height: 420px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    iframe {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    /*body{
+        /*background-color:lightpink;
+    }*/
+
+    p {
+        
+        font-weight: 500;
+        text-align: justify;
+        text-justify: inter-word;
+        font-size: 20px;
+    }
+    .header {
+    background-color: lightpink;
+    }
+</style>

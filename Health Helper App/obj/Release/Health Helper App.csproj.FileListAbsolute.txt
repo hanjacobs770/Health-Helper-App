@@ -1,0 +1,79 @@
+F:\current takss\5032\Health Helper App\Health Helper App\bin\ApplicationInsights.config
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Health Helper App.dll.config
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Health Helper App.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Health Helper App.pdb
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Antlr3.Runtime.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\EntityFramework.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.Agent.Intercept.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Web.Infrastructure.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Newtonsoft.Json.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Owin.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\SendGrid.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Net.Http.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Algorithms.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Encoding.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.Primitives.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Security.Cryptography.X509Certificates.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Helpers.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Mvc.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Optimization.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Razor.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\WebGrease.dll
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Newtonsoft.Json.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\SendGrid.pdb
+F:\current takss\5032\Health Helper App\Health Helper App\bin\SendGrid.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Helpers.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Mvc.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Optimization.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.Razor.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Deployment.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\System.Web.WebPages.Razor.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Antlr3.Runtime.pdb
+F:\current takss\5032\Health Helper App\Health Helper App\bin\EntityFramework.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\EntityFramework.SqlServer.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Core.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Facebook.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Cookies.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.OAuth.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Google.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.Twitter.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.ApplicationInsights.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.DependencyCollector.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.WindowsServer.xml
+F:\current takss\5032\Health Helper App\Health Helper App\bin\Microsoft.AI.Web.xml
+F:\current takss\5032\Health Helper App\Health Helper App\obj\Release\Health Helper App.csprojResolveAssemblyReference.cache
+F:\current takss\5032\Health Helper App\Health Helper App\obj\Release\Health Helper App.csproj.CoreCompileInputs.cache
+F:\current takss\5032\Health Helper App\Health Helper App\obj\Release\Health Helper App.dll
+F:\current takss\5032\Health Helper App\Health Helper App\obj\Release\Health Helper App.pdb

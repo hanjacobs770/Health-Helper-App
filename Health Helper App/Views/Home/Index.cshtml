@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1 id="title">Health Helper <a href="\Home\newlink" class="btn btn-primary btn-lg"> Learn more &raquo;</a></h1>
+    <p class="lead">Health helper is an interactive web application here to help you devise your perfect meal plan</p>
+    @*<p><a href="\Home\about" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>*@
+</div>
+
+<div class="row" id="firstrow">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <p>
+            Health Helper is here to help. Our goal is to make you healthy, and we achieve that by devising a meal plan for you to follow which will alllow you to lose wight, get fit and start feeling great! To get started just click on the link below to start browsing our different meal plan packages!
+        </p>
+        <p><a class="btn btn-default" href="\Home\newlink">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Get even more features</h2>
+        <p>By becomoning a member you will be entitled, not only to our 30 day free trial but to unlimited usage of our products as well as notifications regarding promotions and new ideas!</p>
+        <p><a class="btn btn-default" href="\Account\Register">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Spread the love</h2>
+        <p>Finally don't forget to tell your friends, you don't want them missing out on all of these great products now do you?! If you have any further questions please don't hesitate to get in touch!</p>
+        <p><a class="btn btn-default" href="\Home\Contact">Learn more &raquo;</a></p>
+    </div>
+</div>
+<img src="https://cdn1.medicalnewstoday.com/content/images/articles/269/269143/popular-healthy-foods.jpg" class="img-responsive" />
+<style>
+
+    .img-responsive {
+        height: 320px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 65%;
+    }
+    .jumbotron {
+        height: 200px;
+        background-color: lightpink
+    }
+    .firstrow {
+        height: 170px;
+        background-color: lightblue;
+    }
+    #title{
+        margin-top: 0;
+    }
+    .row {
+        background-color: lightblue;
+        font-weight: 500;
+        text-align: justify;
+        text-justify: inter-word;
+    }
+</style>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Details" EntityType="Model1.Details" />
+    <EntitySet Name="MealPlans" EntityType="Model1.MealPlan" />
+    <AssociationSet Name="MealPlanDetails" Association="Model1.MealPlanDetails">
+      <End Role="MealPlan" EntitySet="MealPlans" />
+      <End Role="Details" EntitySet="Details" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Details">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" Nullable="false" />
+    <Property Name="LastName" Type="String" Nullable="false" />
+    <Property Name="Email" Type="String" Nullable="false" />
+    <NavigationProperty Name="MealPlan" Relationship="Model1.MealPlanDetails" FromRole="Details" ToRole="MealPlan" />
+    <Property Name="MealPlanId" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MealPlan">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Plan" Type="String" Nullable="false" />
+    <NavigationProperty Name="Details" Relationship="Model1.MealPlanDetails" FromRole="MealPlan" ToRole="Details" />
+  </EntityType>
+  <Association Name="MealPlanDetails">
+    <End Type="Model1.MealPlan" Role="MealPlan" Multiplicity="1" />
+    <End Type="Model1.Details" Role="Details" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MealPlan">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Details">
+        <PropertyRef Name="MealPlanId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
